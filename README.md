@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring ML Engineer | 👁️‍🗨️ NLP & CV Enthusiast | 💡 Problem Solver | 💻 Tech Explorer
 
-Hi there! I'm **Mansi**, a passionate Computer Engineering student from Gujarat, India, with a strong inclination towards **Machine Learning**, **Deep Learning**, and building **real-world applications** that make life simpler and smarter.
+Hi there! I'm **Mansi**, a passionate Computer Engineering student with a strong inclination towards **Machine Learning**, **Deep Learning**, and building **real-world applications** that make life simpler and smarter.
 
 I believe in continuous learning and love turning complex problems into elegant solutions using code. Currently diving deeper into the world of **Natural Language Processing** and **Computer Vision**, one model at a time!
 
@@ -14,8 +14,6 @@ I believe in continuous learning and love turning complex problems into elegant 
 - **Web Development:** HTML5 | CSS3 | JavaScript  
 - **Databases:** MySQL | PostgreSQL  
 - **ML & DL:** scikit-learn | TensorFlow | Pandas | NumPy | NLP  
-- **Tools & Platforms:** Git | GitHub | Streamlit  
-- **Soft Skills:** Creative Thinker, Collaborative, Flexible, Analytical
 
 ---
 
@@ -39,10 +37,6 @@ Devang Patel Institute of Advanced Technology and Research (2022–2026)
 📊 CGPA: **8.97**
 
 ---
-
-## 🎓 Certifications
-
-- ✅ Supervised Machine Learning: Regression and Classification – *Coursera*
 
 ---
 
