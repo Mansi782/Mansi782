@@ -30,14 +30,6 @@ Implemented **abstractive summarization** using the **BART model** to generate c
 
 ---
 
-## 📚 Education
-
-🎓 **B.Tech in Computer Engineering**  
-Devang Patel Institute of Advanced Technology and Research (2022–2026)  
-📊 CGPA: **8.97**
-
----
-
 ---
 
 ## 📫 Let's Connect!
